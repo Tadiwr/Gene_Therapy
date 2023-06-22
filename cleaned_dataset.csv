@@ -1,0 +1,61 @@
+,title,drug_id,status,points,vector,safety_met,efficacy_met,administration_therapeutic_route ,administration_therapeutic_area,phases,primary_completion
+0,Safety and Dose Escalation Study of AAV2-hCHM in Subjects With CHM (Choroideremia) Gene Mutations,SPK-7001,"Active, not recruiting",10.0,AAV2,Yes,No,Subretinal,Ophthalmology,Phase 1/2,2019
+1,Trial of AAV5-hFIX in Severe or Moderately Severe Hemophilia B,AMT-061,"Active, not recruiting",10.0,AAV5,Yes,Yes,Intravenous,Hematology,Phase 1/2,2021
+3,Efficacy and Safety of AAV2-REP1 for the Treatment of Choroideremia,BIIB-111,Recruiting,14.0,AAV2,Yes,Yes,Subretinal,Ophthalmology,Phase 3,2020
+11,AAV2-GDNF for Advanced Parkinson?s Disease,AMT-090,"Active, not recruiting",13.0,AAV2,Yes,Yes,Intracranial,Neurology,Phase 1,2022
+13,A Study of AAV-hAADC-2 in Subjects With Parkinson?s Disease,VYAADC-01,Completed,10.0,AAV1,Yes,Yes,Intracranial,Neurology,Phase 1,2013
+15,Dose Confirmation Trial of AAV5-hFIXco-Padua,AMT-061,"Active, not recruiting",3.0,AAV5,Yes,Yes,Intravenous,Hematology,Phase 2,2018
+20,Phase 1 Follow-on Study of AAV2-hRPE65v2 Vector in Subjects With Leber Congenital Amaurosis (LCA) 2,Luxturna,"Active, not recruiting",11.0,AAV2,Yes,Yes,Subretinal,Ophthalmology,Phase 1/2,2026
+22,Hemophilia B Gene Therapy With AAV8 Vector,SPK-9001,Terminated,4.0,AAV8,Yes,Yes,Intravenous,Hematology,Phase 1,2016
+25,Safety and Efficacy Study in Subjects With Leber Congenital Amaurosis,Luxturna,"Active, not recruiting",31.0,AAV2,Yes,Yes,Subretinal,Ophthalmology,Phase 3,2015
+27,Clinical Trial of Gene Therapy for the Treatment of Leber Congenital Amaurosis (LCA),A-001,Completed,15.0,AAV2/5,Yes,Yes,Subretinal,Ophthalmology,Phase 1/2,2018
+29,"Double-Blind, Multicenter, Sham Surgery Controlled Study of CERE-120 in Subjects With Idiopathic Parkinson?s Disease",CERE-120,Completed,58.0,AAV2,Yes,No,Intracranial,Neurology,Phase 2,2008
+32,A Clinical Trial for Treatment of Aromatic l-amino Acid Decarboxylase (AADC) Deficiency Using AAV2-hAADC - An Expansion,GT-AADC ,Unknown status,18.0,AAV2,Yes,Yes,Intracranial,Neurology,Phase 2,2018
+33,A Clinical Trial of Retinal Gene Therapy for X-linked Retinitis Pigmentosa,BIIB-112,Recruiting,63.0,AAV8,Yes,Yes,Subretinal,Ophthalmology,Phase 2/3,2020
+34,Clinical Study of AAV1-gamma-sarcoglycan Gene Therapy for Limb Girdle Muscular Dystrophy Type 2C,AAV1-gammasarcoglycan,Completed,9.0,AAV1,Yes,Yes,Intramuscular,Musculoskeletal,Phase 1,2010
+36,"Safety of a Single Administration of AAV2hAQP1, an Adeno-Associated Viral Vector Encoding Human Aquaporin-1 to One Parotid Salivary Gland in People With Irradiation-Induced Parotid Salivary Hypofunction",A-00X,Recruiting,50.0,AAV2,Yes,Yes,Intraparotidal,Oncology,Phase 1/2,2022
+37,"A Single-Stage, Adaptive, Open-label, Dose Escalation Safety and Efficacy Study of AADC Deficiency in Pediatric Patients",VYAADC-01,Recruiting,6.0,AAV2,Yes,Yes,Intracranial,Neurology,Phase 1,2020
+39,Phase I Randomized Study of Adeno-Associated Virus-CFTR Vector in Patients With Cystic Fibrosis,AAV-CFTR,Completed,19.0,AAV2,Yes,No,Intranasal,Pulmonary,Phase 1,2002
+40,Safety Study in Subjects With Leber Congenital Amaurosis,Luxturna,"Active, not recruiting",12.0,AAV2,Yes,Yes,Subretinal,Ophthalmology,Phase 1,2024
+41,Safety Study of Recombinant Adeno-Associated Virus Acid Alpha-Glucosidase to Treat Pompe Disease,rAAV1-CMV- hGAA,Completed,9.0,AAV1,Yes,No,Intravenous,Metabolic,Phase 1/2,2015
+42,Phase 1/2 Safety and Efficacy Study of AAV-RPE65 Vector to Treat Leber Congenital Amaurosis,rAAV2-CB- hRPE65,Completed,12.0,AAV2,Yes,Yes,Subretinal,Ophthalmology,Phase 1/2,2014
+46,Choroideremia Gene Therapy Clinical Trial,BIIB-111,Completed,6.0,AAV2,Yes,Yes,Subretinal,Ophthalmology,Phase 2,2018
+49,Safety Study of a Gene Transfer Vector for Children With Late Infantile Neuronal Ceroid Lipofuscinosis,AAV2CUhCLN2,"Active, not recruiting",10.0,AAV2,Yes,No,Intracranial,Neurology,Phase 1,2020
+50,Study of AAV-GAD Gene Transfer Into the Subthalamic Nucleus for Parkinson?s Disease,NLX-P101,Terminated,45.0,AAV2,Yes,Yes,Intracranial,Neurology,Phase 2,2010
+55,ART-I02 in Patients With Rheumatoid Arthritis With Inflamed Wrists,ART-102,"Active, not recruiting",15.0,AAV2/5,Yes,No,Intraarticular,Autoimmune,Phase 1,2019
+56,Safety & Efficacy Study of rAAV1-CB-hAAT for Alpha-1 Antitrypsin Deficiency,AGTC-0106,Completed,9.0,AAV1,Yes,Yes,Intramuscular,Musculoskeletal,Phase 2,2011
+58,Safety and Efficacy of rAAV-hRS1 in Patients With X-linked Retinoschisis (XLRS),BIIB-087,"Active, not recruiting",27.0,AAV2,Yes,No,Intravitreal,Ophthalmology,Phase 1/2,2019
+59,Safety Study of an Adeno-associated Virus Vector for Gene Therapy of Leber?s Hereditary Optic Neuropathy,scAAV2- P1ND4v2,Recruiting,30.0,AAV2,Yes,Yes,Subretinal,Ophthalmology,Phase 1,2023
+60,Gene Therapy for Haemophilia A.,AAV2/8-HLP- FVIII-V3,Recruiting,18.0,AAV2/8,Yes,Yes,Intravenous,Hematology,Phase 1,2019
+63,"A Phase 1, Randomized, Blinded, Dose-escalation Study of rAAV1-PG9DP Recombinant AAV Vector Coding for PG9 Antibody in Healthy Male Adults.",rAAV1-PG9DP,"Active, not recruiting",21.0,AAV1,Yes,No,Intramuscular,Virology,Phase 1,2018
+64,Efficacy and Safety Study of Genetically Targeted Enzyme Replacement Therapy for Advanced Heart Failure,Mydicar,Completed,9.0,AAV1,Yes,Yes,Intracoronary,Cardiovascular,Phase 1/2,2010
+65,A Study of Genetically Targeted Enzyme Replacement Therapy for Advanced Heart Failure,Mydicar,Completed,250.0,AAV1,Yes,No,Intracoronary,Cardiovascular,Phase 2,2015
+66,Experimental Gene Transfer Procedure to Treat Alpha 1-Antitrypsin (AAT) Deficiency,AGTC-0106,Completed,9.0,AAV1,Yes,Yes,Intramuscular,Musculoskeletal,Phase 1,2015
+67,Dose-Ranging Study of Recombinant AAV2/6 Human Factor 8 Gene Therapy SB-525 in Subjects With Severe Hemophilia A,SB-525,Recruiting,20.0,AAV2/5,Yes,Yes,Intravenous,Hematology,Phase 1/2,2021
+69,Safety and Dose Finding Study of DTX101 (AAVrh10FIX) in Adults With Moderate/Severe to Severe Hemophilia B,DTX-101,Terminated,6.0,AAVrh10,Yes,No,Intravenous,Hematology,Phase 1/2,2017
+71,AAV1-CMV-Serca2a GENe Therapy Trial in Heart Failure,Mydicar,Terminated,10.0,AAV1,Yes,No,Intracoronary,Cardiovascular,Phase 2,2015
+75,RGX-314 Gene Therapy for Neovascular AMD Trial,RGX-314,Recruiting,42.0,AAV8,Yes,Yes,Subretinal,Ophthalmology,Phase 1/2,2019
+77,Safety Study of RPE65 Gene Therapy to Treat Leber Congenital Amaurosis,rAAV 2/2. hRPE65p. hRPE65,Completed,12.0,AAV2,Yes,Yes,Subretinal,Ophthalmology,Phase 1/2,2014
+86,Gene Therapy for Blindness Caused by Choroideremia,BIIB-111,Completed,14.0,AAV2,Yes,Yes,Subretinal,Ophthalmology,Phase 1/2,2017
+87,Batten CLN6 Gene Therapy,AT-GTX-501,"Active, not recruiting",14.0,scAAV9,Yes,Yes,Intravenous,Neurology,Phase 1/2,2022
+88,Single-Arm Study To Evaluate The Efficacy and Safety of Valoctocogene Roxaparvovec in Hemophilia A Patients,Valrox,Recruiting,130.0,AAV5,Yes,Yes,Intravenous,Hematology,Phase 3,2022
+91,Phase I Trial of Gene Vector to Patients With Retinal Disease Due to RPE65 Mutations,rAAV2-CBSB- hRPE65,"Active, not recruiting",15.0,AAV2,Yes,Yes,Subfoveal,Ophthalmology,Phase 1,2026
+95,Gene Therapy Study in Severe Haemophilia A Patients,Valrox,"Active, not recruiting",15.0,AAV5,Yes,Yes,Intravenous,Hematology,Phase 1/2,2022
+96,Safety Study of Subthalamic Nucleus Gene Therapy for Parkinson?s Disease,NLX-P101,Completed,12.0,AAV2,Yes,Yes,Intracranial,Neurology,Phase 1,2005
+98,Intracerebral Gene Therapy in Children With Sanfilippo Type B Syndrome,AMT-110,"Active, not recruiting",4.0,AAV2/5,Yes,Yes,Intracranial,Metabolic,Phase 1/2,2019
+100,Gene Therapy in Patients With Mucopolysaccharidosis Disease,AAV2/8.TBG.hARSB,Recruiting,10.0,AAV2/8,Yes,No,Intravenous,Metabolic,Phase 1/2,2020
+102,"Randomized, Controlled Study Evaluating CERE-110 in Subjects With Mild to Moderate Alzheimer?s Disease",CERE-110,Completed,49.0,AAV2,Yes,No,Intracranial,Neurology,Phase 2,2017
+103,THOR - Tubingen Choroideremia Gene Therapy Trial,rAAV2.REP1,"Active, not recruiting",6.0,AAV2,Yes,No,Subretinal,Ophthalmology,Phase 2,2018
+104,Safety Dose Finding Study of ADVM-043 Gene Therapy to Treat Alpha-1 Antitrypsin (A1AT) Deficiency,ADVM-043,"Active, not recruiting",20.0,AAVrh10,Yes,No,Intravenous,Metabolic,Phase 1/2,2019
+106,Follistatin Gene Transfer to Patients With Becker Muscular Dystrophy and Sporadic Inclusion Body Myositis,rAAV1.CMV.huFollistatin344,Completed,15.0,AAV1,Yes,Yes,Intramuscular,Musculoskeletal,Phase 1,2017
+107,Gene Transfer Therapy for Treating Children and Adults With Limb Girdle Muscular Dystrophy Type 2D (LGMD2D),MYO-102,Completed,6.0,AAV1,Yes,Yes,Intramuscular,Musculoskeletal,Phase 1,2011
+109,Study of Intrathecal Administration of Onasemnogene Abeparvovec-xioi for Spinal Muscular Atrophy,Zolgensma,Recruiting,28.0,AAV9,Yes,Yes,Intrathecal,Neurology,Phase 1,2021
+110,Gene Transfer Clinical Trial for Spinal Muscular Atrophy Type 1,Zolgensma,Completed,15.0,AAV9,Yes,Yes,Intravenous,Neurology,Phase 1,2017
+111,"Safety and Efficacy in LPL-Deficient Subjects of AMT-011, an Adeno-Associated Viral Vector Expressing Human Lipoprotein Lipase [S447X]",Glybera,Completed,14.0,AAV1,Yes,Yes,Intramuscular,Metabolic,Phase 2/3,2013
+114,A Gene Therapy Study for Hemophilia B,SPK-9001,"Active, not recruiting",15.0,SPK100,Yes,Yes,Intravenous,Hematology,Phase 2,2021
+120,Gene Replacement Therapy Clinical Trial for Patients With Spinal Muscular Atrophy Type 1,Zolgensma,"Active, not recruiting",20.0,scAAV9,Yes,Yes,Intravenous,Neurology,Phase 3,2019
+139,Efficacy Study of GS010 for the Treatment of Vision Loss up to 6 Months From Onset in LHON Due to the ND4 Mutation,GS-010,"Active, not recruiting",36.0,AAV2,Yes,No,Intravitreal,Ophthalmology,Phase 3,2019
+140,Efficacy Study of GS010 for Treatment of Vision Loss From 7 Months to 1 Year From Onset in LHON Due to the ND4 Mutation,GS-010,Completed,37.0,AAV2,Yes,No,Intravitreal,Ophthalmology,Phase 3,2018
+142,Gene Transfer Clinical Trial for LGMD2E (Beta-sarcoglycan Deficiency) Using scAAVrh74.MHCK7.hSGCB,MYO-101,Recruiting,9.0,AAVrh74,Yes,Yes,Intravenous,Musculoskeletal,Phase 1/2,2020
+145,Efficacy and Safety of Human Lipoprotein Lipase (LPL)[S447X] Expressed by an Adeno-Associated Viral Vector in LPL-deficient Subjects,Glybera,Completed,6.0,AAV1,Yes,Yes,Intramuscular,Metabolic,Phase 2/3,2010
+146,Safety and Efficacy Study of VY-AADC01 for Advanced Parkinson?s Disease,VYAADC-01,"Active, not recruiting",16.0,AAV2,Yes,Yes,Intracranial,Neurology,Phase 1,2021
