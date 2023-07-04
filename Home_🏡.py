@@ -10,9 +10,6 @@ from transform_data import transformData
 
 reg_model = joblib.load("./models/logistic-reg.joblib")
 
-# Containers
-container1 = st.container()
-
 x_model = XModel()
 
 statuses = ['Active, not recruiting', 'Recruiting', 'Completed', 'Terminated',
@@ -109,7 +106,6 @@ x_model.completion = st.number_input(
 def predict_on_click():
     X = transformData(x_model)
 
-    st.write(X)
     prediction = reg_model.predict(X)[0]
     des = ""
     print("The prediction is: ", prediction)
@@ -124,8 +120,6 @@ def predict_on_click():
             des = "will not be successful"
             st.warning(f"Predicted result is: {prediction}, your trial will , {des}")
 
-
-
 with st.sidebar:
 
     # Predict your Trial
@@ -134,6 +128,3 @@ with st.sidebar:
         type="primary",
         on_click=predict_on_click
     )
-
-
-
