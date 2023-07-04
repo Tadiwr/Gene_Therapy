@@ -7,22 +7,24 @@ from models.X_model import XModel
 
 def transformData(data : XModel):
 
-    df = pd.read_csv("./cleaned_dataset.csv").drop(columns=["Unnamed: 0", "title"])
+    old_df = pd.read_csv("./cleaned_dataset.csv").drop(columns=["Unnamed: 0", "title"])
 
     # insert the record to be predicted so that it can be transformed along with the other records
 
-    df = df.append(ignore_index=True, other={
-        "drug_id": data.drug_id,
-        "status": data.status,
-        "points": data.points,
-        "vector": data.vector,
-        "safety_met": data.safety_met,
-        "efficacy_met": "No",
-        "administration_therapeutic_route ": data.route,
-        "administration_therapeutic_area": data.area,
-        "phases": data.phase,
-        "primary_completion": data.completion
+    new_row = pd.DataFrame({
+        "drug_id": [data.drug_id],
+        "status": [data.status],
+        "points": [data.points],
+        "vector": [data.vector],
+        "safety_met": [data.safety_met],
+        "efficacy_met": ["No"],
+        "administration_therapeutic_route ": [data.route],
+        "administration_therapeutic_area": [data.area],
+        "phases": [data.phase],
+        "primary_completion": [data.completion]
     })
+
+    df = pd.concat([old_df, new_row], ignore_index=True)
 
     # Labling the data
     encoder = LabelEncoder()
