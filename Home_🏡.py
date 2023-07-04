@@ -1,5 +1,12 @@
+# This file contains code for the entry page when the streamlit app is run
+# When you visit the website streamlit cloud will run this app first
+
+
 from sys import path
 
+# for streamlit to recognise the existence of python modules defined 
+# there is need to need to add then to the system path
+ 
 path.append("./models/X_model.py")
 path.append("./transform_data.py")
 
@@ -10,7 +17,11 @@ from transform_data import transformData
 
 reg_model = joblib.load("./models/logistic-reg.joblib")
 
+# Create an instance of the XModel class
 x_model = XModel()
+
+
+# Possible options that a user can select
 
 statuses = ['Active, not recruiting', 'Recruiting', 'Completed', 'Terminated',
        'Unknown status']

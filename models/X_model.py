@@ -1,6 +1,8 @@
 
 import pandas as pd
 
+# XModel is a class containing the different variables in a gene therapy trial!
+
 class XModel:
     
     drug_id = "" #
