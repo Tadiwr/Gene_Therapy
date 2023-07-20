@@ -1,0 +1,6 @@
+[theme]
+base="dark"
+primaryColor="#21ff3f"
+backgroundColor="#2f3852"
+secondaryBackgroundColor="#2a303b"
+wideMode=true
