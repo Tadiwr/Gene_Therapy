@@ -27,7 +27,7 @@ def readFile(choice: str) -> str :
 
 "# Wiki 📖"
 
-"## Dont Understand Somthing?"
+"## Dont Understand Something? 🔎"
 
 choice = st.selectbox(
     label="What dont you understand?",
