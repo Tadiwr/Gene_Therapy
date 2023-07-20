@@ -51,6 +51,7 @@ vectors = ['AAV2', 'AAV5', 'AAV1', 'AAV8', 'AAV2/5', 'AAV2/8', 'AAVrh10',
        'scAAV9', 'AAV9', 'SPK100', 'AAVrh74']
 
 st.write("# Understanding Gene Therapy through AI 🤖")
+"Download link for nature media dataset that powers this model: [Download Dataset!](https://media.nature.com/original/magazine-assets/d41573-021-00017-7/18790666)"
 
 "---------------------------------------------------------"
 
