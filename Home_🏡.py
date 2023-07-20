@@ -78,7 +78,8 @@ x_model.drug_id = st.selectbox(
 
 "# Points"
 x_model.points = st.number_input(
-    label="Points"
+    label="Points",
+    step=1
 )
 
 "# Vector that will be used"
