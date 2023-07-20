@@ -139,3 +139,5 @@ with st.sidebar:
         type="primary",
         on_click=predict_on_click
     )
+
+""
