@@ -27,13 +27,15 @@ def readFile(choice: str) -> str :
 
 "# Wiki 📖"
 
-"## Dont Understand Somthing?"
+"## Don't Understand Something? Refer to the wiki 🔎"
 
 choice = st.selectbox(
     label="What dont you understand?",
     options=options
 )
 
+
+st.write(f"# {choice}")
 st.write(readFile(choice))
 
 
