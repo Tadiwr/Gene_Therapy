@@ -1,8 +1,9 @@
-# Drugs
-
 # Drug Id
   The variable drug ID is a unique identifier for a drug. It is used to identify a drug across different databases and datasets. Drug IDs are typically assigned by a government agency or pharmaceutical company.
   The variable drug Id is important to researchers and health proffesionals to identify which drug is giving the most successful trails and they will use the effective drugs
+
+----------------------------
+# Drug Descriptions
 
 | Drug | Description |
 |---|---|
