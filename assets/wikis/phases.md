@@ -1,21 +1,12 @@
 # What are Phases
 
-refers to the stage in which a clinical trial is under. A description of the phases is below; 
+ The variable phases in the dataset refers to the different phases of clinical trials that a gene therapy drug has completed. There are four phases of clinical trials:
 
-The following is a list of clinical trial phases, with a brief description of each:
+Phase 1: This is the first phase of clinical trials, and it is typically conducted in a small group of healthy volunteers. The purpose of phase 1 trials is to assess the safety of the drug and to determine the dosage that is safe to use.
 
-* **Phase 1:** The first phase of clinical trials, in which a new drug or treatment is tested in a small group of people (usually 20-80) to assess its safety and determine the right dosage.
-* **Phase 2:** The second phase of clinical trials, in which a new drug or treatment is tested in a larger group of people (usually 100-300) to further assess its safety and effectiveness.
-* **Phase 3:** The third phase of clinical trials, in which a new drug or treatment is tested in a large group of people (usually 1,000-3,000) to confirm its safety and effectiveness, and to compare it to existing treatments.
-* **Phase 4:** The fourth phase of clinical trials, in which a new drug or treatment is monitored after it has been approved for use to further assess its safety and effectiveness.
+Phase 2: This phase of clinical trials is typically conducted in a larger group of people with the disease that the drug is intended to treat. The purpose of phase 2 trials is to assess the effectiveness of the drug and to determine any side effects that may occur.
 
-Phase 1/2 trials are a combination of Phase 1 and Phase 2 trials. They are often used when a new drug or treatment is thought to have the potential to be very effective, but there is some concern about its safety. Phase 1/2 trials allow researchers to assess the safety of a new drug or treatment in a larger group of people, while also starting to gather data on its effectiveness.
+Phase 3: This phase of clinical trials is typically conducted in a large group of people with the disease that the drug is intended to treat. The purpose of phase 3 trials is to confirm the effectiveness of the drug and to compare it to other treatments that are available.
 
-Here is a table that summarizes the different clinical trial phases:
+Phase 4: This phase of clinical trials is conducted after the drug has been approved for marketing. The purpose of phase 4 trials is to collect more data on the safety and efficacy of the drug, and to monitor any long-term side effects.
 
-| Phase | Description |
-|---|---|
-| Phase 1 | Tests safety and dosage |
-| Phase 2 | Further assesses safety and effectiveness |
-| Phase 3 | Confirms safety and effectiveness, compares to existing treatments |
-| Phase 4 | Monitors safety and effectiveness after approval |

@@ -1,3 +1,12 @@
+The variable status in the dataset refers to the current status of a clinical trial for a gene therapy drug. The possible values for the variable status are:
+
+Active, no enrollment: The trial is currently recruiting participants.
+
+Active, enrollment complete: The trial has completed recruiting participants, but the study is still ongoing.
+
+Completed: The trial has been completed and the results have been published.
+
+Suspended: The trial has been suspended for some reason, such as safety concerns or lack of funding.
 The following is a list of clinical trial statuses, with a brief description of each:
 
 * **Active, not recruiting:** A clinical trial that is still open, but is not currently recruiting new participants.
@@ -7,11 +16,3 @@ The following is a list of clinical trial statuses, with a brief description of 
 * **Unknown status:** A clinical trial whose status is not known, either because the trial has not yet started or because the trial sponsor has not updated the status information.
 
 Here is a table that summarizes the different clinical trial statuses:
-
-| Status | Description |
-|---|---|
-| Active, not recruiting | Still open, but not currently recruiting new participants |
-| Recruiting | Actively recruiting new participants |
-| Completed | Finished enrolling participants and collecting data |
-| Terminated | Stopped early, either because of safety concerns or because the study was not successful |
-| Unknown status | Status is not known |
