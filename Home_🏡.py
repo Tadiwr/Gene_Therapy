@@ -131,7 +131,7 @@ def predict_on_click():
         elif prediction == 0:
             prediction = "No"
             des = "will not be successful"
-            st.warning(f"Predicted result is: {prediction}, your trial will , {des}")
+            st.warning(f"Predicted result is: {prediction}, your trial will {des}")
 
 with st.sidebar:
 
